@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+}
+
+.App_header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.myMess{
+  color: #b53ae7;
+  text-align: right;
+}
+
+.anyMess{
+  color: #48e7a6;
+  text-align: left;
+}
